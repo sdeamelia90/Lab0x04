@@ -1,6 +1,6 @@
 # Lab0x04
 
-This file was built and run in Microsoft Visual Studio 19
+This file was built and run in Microsoft Visual Studio 2019
 
 I will upload the file so that when it runs, it default prints the chart to one algorithm.  The other two will be commented out in the main method next to the currently run algorithm.
 
